@@ -1,3 +1,8 @@
+# Created By Rohan Kumar
+# I am 13 year old aspiring software enginneer 
+# Look at my github -----> rohan2007 
+# This program gonna be improved on going
+
 import os
 import datetime
 
@@ -33,7 +38,7 @@ class Log:
         else:
             pass
     
-
+    
 
 intInput = int(input("Enter the input: "))
 myLog = Log()
@@ -148,7 +153,3 @@ elif (intInput == 5):
         else:
             myLog.logError("Enter a valid user Id")
             continue
-
-
-
-
